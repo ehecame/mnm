@@ -1,4 +1,4 @@
-# Mapa ONU Mujeres
+# Mecanismos de Mujeres en América Latina y el Caribe
 
 Un mapa que funciona como visualización interactiva de diez Métricas estadísticas de género en América Latina y el Caribe.
 
