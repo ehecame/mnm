@@ -49,6 +49,8 @@ La visualización para un único país combinará una gráfica lineal (solo en l
   - Gráfica Año Único
     - Gráfica Circular
     - Navegación por Años (tabs)
+    - Gráfica Parlamento
+    - Indicador porcentaje
 
 
 
@@ -63,6 +65,12 @@ La visualización para un único país combinará una gráfica lineal (solo en l
 - Gráfica Circular
 
 - Gráfica Lineal
+
+- Indicador de Porcentaje
+
+- Gráfica Circulos concntricos
+
+- Gráfica de Parlamento
 
 
 ### Objetos de Contenido
