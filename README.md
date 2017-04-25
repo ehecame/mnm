@@ -27,7 +27,7 @@ La visualización para un único país combinará una gráfica lineal (solo en l
 
 #### Mapa
 
-- Gama de colores para indicar magnitud.
+- Gama de colores para indicar magnitud. (OPCIONAL)
 - IxD:
 - Al clicar un país, se cargará automáticamente la Vista **Métrica: País Individual**
 
